@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # script output
-fig.png
+*.png
